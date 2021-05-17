@@ -10,7 +10,13 @@ h1{
     color: white;
     padding: 3%;
 }
-
+header h1{
+    background-color: darkmagenta;
+}
+header p{
+    background-color: darkred;
+    color: whitesmoke;
+}
 .container{
     border: solid 3px darkblue;
     margin: 3% 3% 3% 3%;
